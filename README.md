@@ -1,0 +1,2 @@
+# Ejercicio_TiposDeNumerosConArreglo
+Created with CodeSandbox
